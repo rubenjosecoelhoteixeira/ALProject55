@@ -1,0 +1,20 @@
+{
+  "id": "f8a572ea-ff64-4964-a85e-79b2fff56b24",
+  "name": "55.DevelopingCustomizedSolution",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "application": "15.0.0.0",
+  "showMyCode": true,
+  "runtime": "4.0",
+  "target": "OnPrem",
+  "features": ["TranslationFile"]
+}
